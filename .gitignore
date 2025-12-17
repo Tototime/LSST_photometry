@@ -1,0 +1,30 @@
+# Environnements virtuels
+venv/
+.env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+#
+data/
+*.fits
+*.fit
+*.csv
+*.hdf5
+
+
+# Logs
+*.log
+
+# VS Codium
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
